@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 , I'm Pranav Patnala</h1>
-<h6 align="center">I'm a CSE undergraduate from GITAM University, Hyderabad. Check out my projects in Python, React, and beyond!"</h6>
+<h6 align="center">I'm a CSE undergraduate from GITAM University, Hyderabad. Check out my projects in Python, React, and beyond!</h6>
 
 <h3 align="center">Languages </h3>
 <p align="center">
